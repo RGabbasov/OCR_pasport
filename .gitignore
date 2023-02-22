@@ -4,4 +4,4 @@
 raw_data/*
 data/test/*
 DataForOCR/*
-models/*
+models
